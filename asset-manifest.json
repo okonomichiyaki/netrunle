@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/netrunle/static/css/main.e0e89ff1.css",
-    "main.js": "/netrunle/static/js/main.cecfe70c.js",
+    "main.js": "/netrunle/static/js/main.a175c15f.js",
     "static/js/787.b3f9d252.chunk.js": "/netrunle/static/js/787.b3f9d252.chunk.js",
     "index.html": "/netrunle/index.html",
     "main.e0e89ff1.css.map": "/netrunle/static/css/main.e0e89ff1.css.map",
-    "main.cecfe70c.js.map": "/netrunle/static/js/main.cecfe70c.js.map",
+    "main.a175c15f.js.map": "/netrunle/static/js/main.a175c15f.js.map",
     "787.b3f9d252.chunk.js.map": "/netrunle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0e89ff1.css",
-    "static/js/main.cecfe70c.js"
+    "static/js/main.a175c15f.js"
   ]
 }
