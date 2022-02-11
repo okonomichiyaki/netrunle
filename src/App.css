@@ -1,3 +1,9 @@
 html.dark {
   background-color: rgb(15, 23, 42);
 }
+div.pb-6 div.justify-left div {
+  flex-shrink: 0 !important;
+}
+.max-w-7xl {
+  max-width: 100rem;
+}
